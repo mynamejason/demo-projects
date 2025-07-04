@@ -1,0 +1,1 @@
+This is a general repo for anything I've decided to self teach
